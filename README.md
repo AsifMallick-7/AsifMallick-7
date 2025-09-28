@@ -9,7 +9,7 @@
 
 - 🌱 I'm currently learning **Frontend Development, AI & ML**
 
-- 📬 How to reach me **asifmallick4551@gmail.com**
+- 📬 Email me 👉 ✉️ **asifmallick4551@gmail.com** For Collaboration or Anything Else. 😊😊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
