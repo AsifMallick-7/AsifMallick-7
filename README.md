@@ -55,17 +55,14 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsifMallick-7&theme=tokyonight" />
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsifMallick-7&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AsifMallick-7&theme=tokyonight" />
+  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AsifMallick-7&theme=tokyonight" />
+  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AsifMallick-7&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AsifMallick-7&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AsifMallick-7&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=AsifMallick-7&theme=tokyonight&hide_border=true" />
 </p>
