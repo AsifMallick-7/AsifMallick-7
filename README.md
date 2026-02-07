@@ -34,7 +34,13 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <a href="https://x.com/Asifmallick_007" target="_blank">
 <img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png"  height="40" width="40" />
 </a>
-</p>
+
+<a href="mailto:asifmallick4551@gmail.com">
+<img align="center"
+src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
+height="36" width="35"/>
+</a>
+
 
 ---
 
