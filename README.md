@@ -1,7 +1,7 @@
 ![logo](https://raw.githubusercontent.com/AsifMallick-7/AsifMallick-7/main/Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Asif Mallick</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A MERN Stack Developer from India, exploring AI/ML and building intelligent web applications.</h3>
 
 <img align="right" alt="coding" width="350" 
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
