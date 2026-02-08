@@ -1,7 +1,7 @@
 ![logo](https://raw.githubusercontent.com/AsifMallick-7/AsifMallick-7/main/Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Asif Mallick</h1>
-<h3 align="center">A MERN Stack Developer from India, exploring AI/ML and building intelligent web applications.</h3>
+<h3 align="center">Aspiring AI/ML Engineer & MERN Stack Developer from India, passionate about building scalable web and intelligent applications.</h3>
 
 <img align="right" alt="coding" width="350" 
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -10,7 +10,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   <img src="https://komarev.com/ghpvc/?username=AsifMallick-7&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-- 🌱 I'm currently learning **Frontend Development, AI & ML**
+- 🚀 Exploring AI/ML, Data Science & Full-Stack Development**
 
 - 📬 Email me 👉 ✉️ **asifmallick4551@gmail.com** For Collaboration or Anything Else 😊
 
